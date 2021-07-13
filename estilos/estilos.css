@@ -1,0 +1,90 @@
+@media screen\0 {
+    .select{
+	
+
+        width:100%;
+   	
+}
+}
+select{
+	
+
+        width:64%;
+   	
+}
+option {
+	padding: 10px;
+}
+
+
+body {margin: 5px;padding: 0px;background-color:#EEECEC}
+
+table {
+    font-family: verdana;
+    font-size: 11pt;
+}
+.table1 {
+    font-family: verdana;
+    font-size: 11pt;
+}
+.table2 {
+    font-family: verdana;
+    font-size: 10pt;
+}
+#encabezado{
+    
+  background-color:#ffee00;
+  color:#0000aa;
+  
+  
+}
+
+.datos_sesion {
+    width: 100%;
+    text-align: right;
+    font-size: 10pt;
+}
+
+.datos_sesion a {
+    text-decoration: underline;
+    color: black;
+}
+
+.datos_sesion a:hover {
+    text-decoration: none;
+}
+.error_login {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    background-color: lightyellow;
+    width: 100%;
+}
+
+
+.button { /* clase general */
+  //border: 1px solid #dedede;
+  border-radius: 1px;
+  color: #555;
+  //display: inline-block;
+  font: bold 5px/5px HelveticaNeue, Arial;
+  padding: 3px 5px;
+  text-decoration: none;
+}
+
+.button1 { /* clase general */
+  //border: 1px solid #dedede;
+  border-radius: 3px;
+  color: black;
+  //display: inline-block;
+  font: #555 10px/10px HelveticaNeue, Arial;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+  .ui-button
+	{
+	background: black;
+	color: white;
+	font-size: 14px;
+	border: 0;
+	}
